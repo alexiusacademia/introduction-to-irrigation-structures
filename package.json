@@ -1,0 +1,19 @@
+{
+  "name": "irrig-structures",
+  "version": "0.0.1",
+  "description": "Irrigation structures.",
+  "main": "index.js",
+  "authors": {
+    "name": "Alexius Academia",
+    "email": "alexius.academia@gmail.com"
+  },
+  "repository": "/irrig-structures",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
